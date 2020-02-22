@@ -1,0 +1,106 @@
+				读取完毕！
+
+
+
+
+text中句子的个数为：12
+				读取完毕！
+
+
+
+
+lib中句子的个数为：32
+				读取完毕！
+
+
+
+
+				读取完毕！
+
+
+
+
+
+第1句话与lib中的第3句话最相似!
+得分为：19
+比对结果：
+in mathematics and computer science an algorithm is a self contained step by step set of operations to be performed 
+in mathematics and computer science an algorithm is a self contained step by step set of operations to be performed 
+---------------------------------------------------------------
+
+第2句话与lib中的第5句话最相似!
+得分为：9
+比对结果：
+algorithms exist that perform calculation data processing and automated reasoning 
+algorithms exist that perform calculation data processing and automated reasoning 
+---------------------------------------------------------------
+
+第3句话与lib中的第8句话最相似!
+得分为：3
+比对结果：
+algorithm is   an effective method that can     be    expressed within                    a finite amount of space and     time       and    in         a         well   defined formal      language for calculating a      function 
+starting  from an initial   state  and  initial input when      executed proceeds through a finite number of well  defined successive states eventually producing output and     terminating at       a   final       ending state    
+---------------------------------------------------------------
+
+第4句话与lib中的第8句话最相似!
+得分为：26
+比对结果：
+starting from an initial state and initial input the instructions describe a computation that when executed proceeds through a finite number of well defined successive states eventually producing output and terminating at a final ending state 
+starting from an initial state and initial input                                              when executed proceeds through a finite number of well defined successive states eventually producing output and terminating at a final ending state 
+---------------------------------------------------------------
+
+第5句话与lib中的第9句话最相似!
+得分为：15.5
+比对结果：
+the transition from one state to the next is not necessarily deterministic some algorithms known as randomized algorithms incorporate random input 
+the transition from one state to             not necessarily deterministic some algorithms known as randomized algorithms incorporate random input 
+---------------------------------------------------------------
+
+第6句话与lib中的第10句话最相似!
+得分为：17
+比对结果：
+algorithms can be expressed in many kinds of notation including natural languages pseudocode flowcharts drakon charts programming languages or control tables 
+algorithms can be expressed in many kinds of notation including natural languages            flowcharts        charts programming languages or control tables 
+---------------------------------------------------------------
+
+第7句话与lib中的第11句话最相似!
+得分为：14.5
+比对结果：
+natural language expressions of algorithms tend to be verbose and ambiguous and are rarely used for complex or technical algorithms 
+natural language                algorithms tend to be verbose and ambiguous and are rarely used for complex or           algorithms 
+---------------------------------------------------------------
+
+第8句话与lib中的第15句话最相似!
+得分为：23
+比对结果：
+pseudocode flowcharts drakon charts and control tables are structured ways to express algorithms that avoid many of the ambiguities common in natural language statements 
+pseudocode flowcharts drakon charts and control tables are structured ways to express algorithms that avoid many of the ambiguities common in natural language statements 
+---------------------------------------------------------------
+
+第9句话与lib中的第19句话最相似!
+得分为：1.5
+比对结果：
+programming languages are     primarily intended for expressing algorithms in     a form                           that can    be executed  by  a       computer but  are often    used as   a   way     to define or  document algorithms 
+a           simpler   variant of        divide   and conquer    is         called a decrease and conquer algorithm that solves an identical sub problem and      uses the solution of   this sub problem to solve  the bigger   problem    
+---------------------------------------------------------------
+
+第10句话与lib中的第22句话最相似!
+得分为：50.5
+比对结果：
+there is a wide variety of representations possible and one can express a given turing machine program as a sequence of machine tables see more at finite state machine      state transition table and control      table as flowcharts and drakon charts see more at state diagram or as a form of rudimentary machine code or assembly code called sets of quadruples 
+there is a wide variety of representations possible and one can express a given turing machine program as a sequence of machine tables see more at finite state machine many state transition table and control book table as flowcharts and drakon charts see more at state diagram                 rudimentary machine code or assembly code called sets of quadruples 
+---------------------------------------------------------------
+
+第11句话与lib中的第26句话最相似!
+得分为：30
+比对结果：
+in computer systems an algorithm is basically an instance of logic written in software by software developers to be effective for the intended target computer to produce output from given input 
+in computer systems an algorithm is basically an instance of logic written in software by software developers to be effective for the intended target computer to produce output from given input 
+---------------------------------------------------------------
+
+第12句话与lib中的第27句话最相似!
+得分为：26.5
+比对结果：
+an optimal           algorithm even running in old       hardware would produce faster results than a non optimal algorithm for the same purpose running in more efficient hardware that is why the algorithms like computer hardware are considered technology 
+an optimal efficient algorithm even running in very good hardware would produce faster results than a non optimal algorithm for the same purpose running in more efficient hardware                            like computer hardware are considered technology 
+---------------------------------------------------------------

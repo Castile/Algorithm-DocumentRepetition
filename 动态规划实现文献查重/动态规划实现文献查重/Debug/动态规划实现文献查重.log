@@ -1,0 +1,14 @@
+﻿  DocumentRepetition.cpp
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\filereader.h(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\splitsentence.h(40): warning C4018: “<”: 有符号/无符号不匹配
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\utils.h(24): warning C4018: “<”: 有符号/无符号不匹配
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\dynamic.h(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\dynamic.h(109): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\dynamic.h(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\dynamic.h(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\dynamic.h(131): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\dynamic.h(137): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\dynamic.h(250): warning C4018: “<=”: 有符号/无符号不匹配
+h:\myfiles\vs2015\algorithm\动态规划实现文献查重\动态规划实现文献查重\dynamic.h(258): warning C4018: “<=”: 有符号/无符号不匹配
+  动态规划实现文献查重.vcxproj -> H:\myFiles\VS2015\Algorithm\动态规划实现文献查重\Debug\动态规划实现文献查重.exe
